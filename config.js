@@ -47,7 +47,7 @@ window.CONFIG = {
   telas: {
     video: true,
     whatsapp: true,
-    localizacao: false,
+    localizacao: true,
     presentes: false,
     dresscode: false,
     manual: false,
